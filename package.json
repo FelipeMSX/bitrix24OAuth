@@ -1,0 +1,9 @@
+{
+  "name": "Bitrix24OAuth",
+  "version": "1",
+  "description": "Teste de aplicacao OAuth",
+  "main": "index",
+  "repository": "https://github.com/FelipeMSX/bitrix24OAuth.git",
+  "author": "felipemsx <felipemsx18@gmail.com>",
+  "license": "MIT"
+}
